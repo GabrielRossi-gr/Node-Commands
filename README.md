@@ -5,5 +5,11 @@
 
 # npm
 ```
-    npm install <nomeDoModulo>
+    npm install <nomeDoModulo>                        //instalar modulos externos 
+```
+
+# Node
+```
+    node <nomeDoArquivo>                              //roda o arquivo .js
+    
 ```
