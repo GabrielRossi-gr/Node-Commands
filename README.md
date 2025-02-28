@@ -4,10 +4,8 @@
 </div>
 
 # npm
-### Documentação do npm 
-```
-    documentation
-```
+### Documentação do npm: https://cdn.jsdelivr.net/gh/devicons/devicon@la
+
 ```
     npm install <nomeDoModulo>                        //instalar modulos externos 
 ```
