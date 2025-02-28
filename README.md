@@ -7,6 +7,7 @@
 # npm
 ### Documentação: https://docs.npmjs.com/ 
 ```
+    npm init                                          //cria um projeto npm
     npm install <nomeDoModulo>                        //instalar modulos externos 
 ```
 
@@ -16,4 +17,10 @@
 ```
     node <nomeDoArquivo>                              //roda o arquivo .js
     
+```
+
+
+# Modules
+```
+    minimist                                          //modulo que ajuda na criação de argumentos
 ```
