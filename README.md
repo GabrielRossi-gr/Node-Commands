@@ -7,7 +7,7 @@
 # npm
 ### Documentação: https://docs.npmjs.com/ 
 ```
-    npm init                                          //cria um projeto npm
+    npm init                                          //cria um projeto npm, para usar modulos externos voce precisa usar esse comando
     npm install <nomeDoModulo>                        //instalar modulos externos 
 ```
 
@@ -20,7 +20,7 @@
 ```
 
 
-# Modules
+# External Modules
 ```
     minimist                                          //modulo que ajuda na criação de argumentos
 ```
