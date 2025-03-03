@@ -23,4 +23,11 @@
 # External Modules
 ```
     minimist                                          //modulo que ajuda na criação de argumentos
+    chalk@4.1.2                                       //modulo para mudar as cores do console
+    inquirer@8.1.2                                    //ler dados por terminal
+```
+
+# Core Modules
+```
+    readline                                          //ler dados digitados pelo usuario
 ```
