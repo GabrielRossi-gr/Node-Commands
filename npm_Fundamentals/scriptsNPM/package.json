@@ -1,0 +1,19 @@
+{
+  "name": "scriptsnpm",
+  "version": "1.0.0",
+  "main": "index.js",
+  
+  "scripts": {
+    "test": "npx cowsay 'Hello World!'",
+    "test2": "npx cowsay -d 'Morri!'",
+    "start": "node index.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
