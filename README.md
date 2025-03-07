@@ -20,7 +20,7 @@
     npx npm-check-updates -u                          //checa se tem alguma atualização dos pacotes
     npm run <nomeDoScript>                            //roda scripts escritos no package.json
     npm start                                         //roda script configurado para rodar o projeto sem precisar da palavra reservada "run"
-    npx <nomeDoPacote>                                //o npx executa os pacotes do node, exemplo: npx cowsay "Hello World"
+    npx <nomeDoPacote>                                //o npx executa os pacotes do node, exemplo: npx cowsay 'Hello World!'
 ```
 
 
