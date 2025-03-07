@@ -7,11 +7,17 @@
 # npm
 ### Documentação: https://docs.npmjs.com/ 
 ```
-    npm init                                          //cria um projeto npm, para usar modulos externos voce precisa usar esse comando
+    npm init                                          //cria um projeto npm, você precisa usar esse comando para usar módulos externos
     npm init -y                                       //cria projeto de forma rapida com tudo no default
-    npm install <nomeDoModulo>                        //instalar modulos externos
-    npm instal                                        //baixar todos os modulos externos de um projeto
-    npm start                                         //rodar projeto npm
+    npm install <nomeDoModulo>                        //instala módulos externos
+    npm install                                       //baixa todos os módulos externos de um projeto
+    npm install --save-dev                            //instala módulos em dev dependences, quando o projeto estiver em produção esses módulos não vão ser importados
+    npm install -g <nomdeDoPacote>                    //instala módulos de forma global
+    npm update                                        //atualiza todos os pacotes
+    npm update <nomeDoPacote>                         //atualiza pacote específico
+    npx npm-check-updates -u                          //checa se tem alguma atualização dos pacotes
+    npm run <nomeDoScript>                            //roda scripts escritos no package.json
+    npm start                                         //roda script configurado para rodar o projeto sem precisar da palavra reservada "run" 
 ```
 
 
