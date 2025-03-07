@@ -30,4 +30,9 @@
 # Core Modules
 ```
     readline                                          //ler dados digitados pelo usuario
+    http                                              //criar servidores node
+    url                                               //usadeo para decompor urls
+    fs                                                //file system, usado para ler e esquever e criar arquivos e pastas
+    path                                              //manipular e criar caminhos de diretorios e arquivos
+    os                                                //receber informações da maquina
 ```
