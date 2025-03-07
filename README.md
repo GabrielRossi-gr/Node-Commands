@@ -24,7 +24,7 @@
 
 
 # External Modules
-### https://www.npmjs.com/
+### Find modules: https://www.npmjs.com/
 
 ```
     minimist                                          //modulo que ajuda na criação de argumentos
