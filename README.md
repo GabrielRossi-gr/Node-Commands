@@ -6,9 +6,13 @@
 
 # npm
 ### Documentação: https://docs.npmjs.com/ 
+### Pacotes: https://www.npmjs.com/
 ```
     npm init                                          //cria um projeto npm, para usar modulos externos voce precisa usar esse comando
-    npm install <nomeDoModulo>                        //instalar modulos externos 
+    npm init -y                                       //cria projeto de forma rapida com tudo no default
+    npm install <nomeDoModulo>                        //instalar modulos externos
+    npm instal                                        //baixar todos os modulos externos de um projeto
+    npm start                                         //rodar projeto npm
 ```
 
 
