@@ -6,7 +6,6 @@
 
 # npm
 ### Documentação: https://docs.npmjs.com/ 
-### Pacotes: https://www.npmjs.com/
 ```
     npm init                                          //cria um projeto npm, para usar modulos externos voce precisa usar esse comando
     npm init -y                                       //cria projeto de forma rapida com tudo no default
@@ -25,6 +24,8 @@
 
 
 # External Modules
+### : https://www.npmjs.com/
+
 ```
     minimist                                          //modulo que ajuda na criação de argumentos
     chalk@4.1.2                                       //modulo para mudar as cores do console
