@@ -8,4 +8,4 @@ const chalk = require("chalk")
 //npm run test
 //npm run test2
 
-console.log("eu fui rodado pelo script" + chalk.green.bold("npm run start"))
+console.log("eu fui rodado pelo script " + chalk.green.bold("npm run start"))
