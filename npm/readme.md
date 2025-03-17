@@ -1,1 +1,1 @@
-os comandos de terminal do npm estão escritos no README do repositorio
+os comandos de terminal do npm estão escritos no README do repositório
