@@ -38,8 +38,9 @@
 
 ```
     express                                           //Express framework
-    minimist                                          //modulo que ajuda na criação de argumentos
-    chalk@4.1.2                                       //modulo para mudar as cores do console
+    nodemon                                           //módulo que cria um servidor que atualiza a aplicação toda vez que o projeto é salvo 
+    minimist                                          //módulo que ajuda na criação de argumentos
+    chalk@4.1.2                                       //módulo para mudar as cores do console
     inquirer@8.1.2                                    //ler dados por terminal
     lodash
     
